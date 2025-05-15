@@ -1,0 +1,14 @@
+{
+  "videos": [
+    { 
+      "name": "Big Buck Bunny",
+      "author": "Blender Foundation",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "name": "Elephant Dream",
+      "author": "Blender Foundation",
+      "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+  ]
+}
